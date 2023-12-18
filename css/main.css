@@ -2031,8 +2031,7 @@ nav a:hover {
   background-image: -ms-linear-gradient(0deg, #030108 0%, #040947 100%);
 }
 
-.p1-gradient-color,
-.about-details h2 {
+.p1-gradient-color {
   background: -moz-linear-gradient(0deg, #030108 0%, #040947 100%);
   background: -webkit-linear-gradient(0deg, #030108 0%, #040947 100%);
   background: -ms-linear-gradient(0deg, #030108 0%, #040947 100%);
@@ -2579,7 +2578,7 @@ nav a:hover {
 
 .footer-social a {
   background: #f9f9ff;
-  padding: 12px 18px;
+  padding: 18px 18px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -2587,7 +2586,7 @@ nav a:hover {
 }
 
 .footer-social i {
-  color: #cccccc;
+  color: #4267b2;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
