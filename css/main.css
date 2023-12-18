@@ -2424,8 +2424,9 @@ nav a:hover {
 }
 
 .about-area {
-  background: url(../img/about-bg.jpg) no-repeat left;
-  background-size: cover;
+  background-image: -moz-linear-gradient(0deg, #030108 0%, #040947 100%);
+  background-image: -webkit-linear-gradient(0deg, #030108 0%, #040947 100%);
+  background-image: -ms-linear-gradient(0deg, #030108 0%, #040947 100%);
 }
 
 @media (max-width: 768px) {
