@@ -2083,18 +2083,19 @@ nav a:hover {
 }
 
 .banner-area {
-  background: url(../img/Hoss\ Mt-cropped.jpg) no-repeat center center/cover;
+  background: url(../img/Hossmountain-1920.jpeg) no-repeat center center/cover;
 }
 
 @media (max-width: 767px) {
   .banner-area .fullscreen {
-    height: 700px !important;
+    height: 200px !important;
   }
-}
-
-@media (max-width: 767px) {
+  .banner-area {
+    background: url(../img/Hossmountain-1920.jpeg) no-repeat center
+      center/contain;
+  }
   .banner-content {
-    margin-top: 100px;
+    margin-top: 80px;
   }
 }
 
@@ -2127,7 +2128,7 @@ nav a:hover {
 
 @media (max-width: 414px) {
   .banner-content h1 {
-    font-size: 40px;
+    font-size: 28px;
   }
 }
 
